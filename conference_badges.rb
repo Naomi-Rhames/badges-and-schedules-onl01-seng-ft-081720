@@ -3,5 +3,5 @@ def badge_maker(name)
 end
 
 def batch_bage_creater(names)
-  names.map { |name| }
+  names.map { |name| badge_maker {naom }
 end
