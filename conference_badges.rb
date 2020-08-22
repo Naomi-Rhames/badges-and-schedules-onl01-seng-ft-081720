@@ -8,3 +8,4 @@ end
 
 def assign_rooms(speakers)
   new_array=[]
+  speakers.each_with_in, idex {|namw
