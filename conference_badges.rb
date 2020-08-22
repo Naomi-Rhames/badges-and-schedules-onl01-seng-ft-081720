@@ -8,4 +8,5 @@ end
 
 def assign_rooms(speakers)
   new_array=[]
-  speakers.each_with_in, idex{|name, i|
+  speakers.each_with_in, idex{|name, i| 
+  hew_array << "Hello "
